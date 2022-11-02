@@ -1,14 +1,22 @@
 # ids-test
 
+**Задание**
+
+Сделать компонент таблица с возможностью добавления/редактирования/удаления данных пользователя
+
+Данные пользователя:
+* Фамилия И.О. (строка)
+* Дата рождения(календарь, календарь можно любой)
+* Любимая книга(выподающий список)
+* Пол(радиобаттан)
+* Навыки(мультиселект, не обязательное поле, реализовывать по желанию)
+
+
+**Ожидаемый результат:**
+Проект на vue, при сборки и запуски отображающий страницу с 2 таблицами, в каждой по 3 строки данных, и есть возможности редактировать удалять добавлять
+
+
 This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
